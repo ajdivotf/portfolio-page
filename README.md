@@ -1,5 +1,5 @@
 # portfolio-page
-
+# only for pc!
 this is the implementation of the task from the freecodecamp course - responsive web design. 
 
 there are inserted my own projects, which can be found on github. the color scheme of the graphics has been changed to match the color scheme of the page.
