@@ -7,4 +7,13 @@ there are inserted my own projects, which can be found on github. the color sche
 result is:
 
 this page view is designed to be viewed on a mobile device
+
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20top.png)
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20medium.png)
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20bottom.png)
+
 this kind of page is designed to be viewed on a computer
+
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20top.png)
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20medium.png)
+![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20bottom.png)
