@@ -4,9 +4,6 @@ html{
 *{
   font-family: 'Poppins';
 }
-body{
-   min-width:360px;  
-}
 header{
   position: fixed;
   display: flex;
@@ -41,6 +38,7 @@ a{
 #welcome-section{
   height: 777px; 
   background-color: #9dbdb8;
+  margin: -10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -56,6 +54,7 @@ h1{
 }
 #projects{
   background-color: #e78173;
+  margin: -10px;
   padding-top: 5px;
   padding-bottom: 20px;
 }
@@ -146,6 +145,7 @@ h1{
 }
 #contact{
   background-color: #9dbdb8;
+  margin: -10px;
   height: 710px;
   display: flex;
   align-items: center;
