@@ -12,8 +12,8 @@ this page view is designed to be viewed on a mobile device
 
 this kind of page is designed to be viewed on a computer
 
-![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20top.png)
-![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20medium.png)
-![](https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20bottom.png)
+<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20top.png" width="500">
+<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20medium.png" width="500">
+<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/big%20bottom.png" width="500">
 
 there are also effects that appear when you hover over the button and the names of the works. try it and find out.
