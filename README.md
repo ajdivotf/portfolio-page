@@ -8,7 +8,8 @@ result is:
 
 this page view is designed to be viewed on a mobile device
 
-![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20top.png)
+<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20top.png" width="500">
+![]()
 ![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20medium.png)
 ![](https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20bottom.png)
 
