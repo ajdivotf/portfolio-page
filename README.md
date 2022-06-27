@@ -8,7 +8,7 @@ result is:
 
 this page view is designed to be viewed on a mobile device
 
-<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lill%20top.png" width="300"><img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20medium.png" width="300"><img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20bottom.png" width="300">
+<img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lill%20top.png" width="299"><img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20medium.png" width="299"><img src="https://github.com/ajdivotf/portfolio-page/blob/main/results/lil%20bottom.png" width="299">
 
 this kind of page is designed to be viewed on a computer
 
